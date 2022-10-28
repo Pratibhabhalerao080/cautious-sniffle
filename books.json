@@ -1,0 +1,20 @@
+{
+	"Book1": {
+		"Title": "How to solve it",
+		"Author": "George Polya",
+		"Publish year": 2009,
+		"Rating": 4
+	},
+	"Book2": {
+		"Title": "Thinking in Number",
+		"Author": "Daniel Tammet",
+		"Publish year": 2008,
+		"Rating": 4.5
+	},
+	"Book3": {
+		"Title": "Python Data Science",
+		"Author": ["Jake Vanderlas", "Al sweigart"],
+		"Publish year": 2022,
+		"Rating": 4.5
+	}
+}
